@@ -1,0 +1,8 @@
+SENDGRID_USER='ewfdgwg'
+SENDGRID_PASSWORD='ewfgfb'
+
+
+AWS_STORAGE_BUCKET_NAME = 'wrtwryr'
+AWS_ACCESS_KEY_ID = 'erreheh'
+AWS_SECRET_ACCESS_KEY = 'ewwete'
+AWS_S3_HOST = 'wefewgef'

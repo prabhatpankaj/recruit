@@ -1,4 +1,6 @@
 *.pyc
 *.sqlite3
 *.json
-**/migrations/
+venv3
+venv3/*
+*.DS_Store
